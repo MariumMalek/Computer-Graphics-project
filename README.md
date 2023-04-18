@@ -14,5 +14,8 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#_pyopengl:~:text=PyOpenGL%E2%80%913.
 3.x = python version
 
 
-
+ #### In pyCharm terminal run the following commands: 
+ 
+  
+     PM> PyOpenGL‑3.1.6‑cp3x‑cp3x‑win_amd64.whl
 
