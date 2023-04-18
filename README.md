@@ -1,4 +1,7 @@
 # Fire-Brigade a Computer-Graphics-project
+This repository is about the projects which is related to the course of CSE423 Computer Graphics of Brac University. 
+
+
 
 ### Installation:
 
