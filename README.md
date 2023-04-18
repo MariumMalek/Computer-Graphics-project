@@ -19,4 +19,4 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#_pyopengl:~:text=PyOpenGL%E2%80%913.
  
   
     pip install PyOpenGL-3.1.5-cp3x-cp3xm-win_amd64.whl
-
+    pip install PyOpenGL_accelerate-3.1.5-cp3x-cp3xm-win_amd64.whl
