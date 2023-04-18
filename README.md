@@ -11,6 +11,8 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#_pyopengl:~:text=PyOpenGL%E2%80%913.
 #### 2.   
     PyOpenGL_accelerate‑3.1.6‑cp3x‑cp3x‑win_amd64.whl
     
+3.x = python version
+
 
 
 
