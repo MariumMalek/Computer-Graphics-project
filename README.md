@@ -1,6 +1,6 @@
 # Fire-Brigade a Computer-Graphics-project
 
-###Installation:
+##Installation:
 
 1. Install Python.
 2.Install Python packages 
